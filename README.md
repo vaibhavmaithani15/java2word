@@ -8,7 +8,7 @@ _Coding for fun_
 [![Build Status](https://travis-ci.org/leonardoanalista/java2word.svg)](https://travis-ci.org/leonardoanalista/java2word) [![codecov.io](https://codecov.io/github/leonardoanalista/java2word/coverage.svg?branch=master)](https://codecov.io/github/leonardoanalista/java2word?branch=master)
 
 
-_* When I say no third part or external libraries, I mean there isn't any Microsoft library or special components. Please refer to "Dependencies" section below._
+_* When I say no third part or external libraries, I mean there isn't any Microsoft library or special components. Please refers to "Dependencies" section below._
 
 Project has been migrated from: 
 * https://code.google.com/p/java2word/
@@ -17,7 +17,7 @@ Project has been migrated from:
 
 ##WHEN TO USE JAVA2WORD##
 
-Suitable when you have that particular clients/customers/project where you want to export or create MS Word reports and make changes easily. Another situation is to generate "Release Notes" document as a part of the build.
+Suitable when you have that particular clients/customers/projects where you want to export or create MS Word reports and make changes easily. Another situation is to generate "Release Notes" document as a part of the build.
 
 If you need to create MS Word document that looks like a reports and data comes from a database, this is the perfect library for it.
 
